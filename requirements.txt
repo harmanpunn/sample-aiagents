@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+duckduckgo-search
+git+https://github.com/openai/swarm.git
+python-dotenv
